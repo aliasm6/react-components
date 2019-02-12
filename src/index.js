@@ -14,7 +14,7 @@ const App = () => {
             Sam
           </a>
           <div className="metadata">
-            <span class="date">Today at 6PM</span>
+            <span className="date">Today at 6PM</span>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@ const App = () => {
             Sam
           </a>
           <div className="metadata">
-            <span class="date">Today at 6PM</span>
+            <span className="date">Today at 6PM</span>
           </div>
         </div>
       </div>
@@ -42,7 +42,7 @@ const App = () => {
             Sam
           </a>
           <div className="metadata">
-            <span class="date">Today at 6PM</span>
+            <span className="date">Today at 6PM</span>
           </div>
         </div>
       </div>
